@@ -1,0 +1,3 @@
+# 所以的包都在packages里面
+packages:
+  - 'packages/*'
